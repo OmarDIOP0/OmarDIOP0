@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmarDIOP0
+- 👋 Hi, I’m @OmarDIOP
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning laravel flutter .... 
 - 📫 How to reach me https://github.com/OmarDIOP0
