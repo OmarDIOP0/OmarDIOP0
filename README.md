@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Full Stack Developper<br>- 👀 Web and Mobile<br>- 🌱Python Django PHP Laravel Node ExpressJs React Flutter C# .NET SQL SERVER
+👋 Full Stack Developper<br>- 👀 Web and Mobile<br>- 🌱Python/Django PHP/Laravel Java/Spring Boot React Flutter C#/ASP.NET SQL SERVER
 
 
 ## 🌐 Socials:
